@@ -1,38 +1,40 @@
-# alison-alejandro
+# 💕 PARA MI ALISON CON MUCHO CARIÑO
 
-This template should help get you started developing with Vue 3 in Vite.
+Una aplicación interactiva y romántica hecha con Vue.js para hacer la propuesta de Valentine más especial del mundo.
 
-## Recommended IDE Setup
+## ✨ Características
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- 🎨 Diseño moderno con glassmorphism
+- 💫 Animaciones suaves y partículas flotantes
+- 🎯 Botón "No" imposible de presionar (se mueve al intentar clickearlo)
+- 🎉 Confeti y animaciones al aceptar
+- 💌 Carta de amor personalizada con fuente elegante
+- 📱 Totalmente responsive (funciona en móviles y desktop)
 
-## Recommended Browser Setup
+## 🚀 Cómo ejecutar el proyecto
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### Instalación
 
-## Project Setup
+1. **Clona el repositorio**
+```bash
+git clone https://github.com/Alee234324444444444444444444/alejandro-alison.git
+cd alejandro-alison
+```
 
-```sh
+2. **Instala las dependencias**
+```bash
 npm install
+
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+3. **Ejecuta el proyecto en modo desarrollo**
+```bash
 npm run dev
-```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+4. **Abre tu navegador**
+   
+   El proyecto estará corriendo en `http://localhost:5173` (o el puerto que indique la consola)
+
